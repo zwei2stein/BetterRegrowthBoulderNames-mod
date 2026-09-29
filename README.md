@@ -1,7 +1,7 @@
 
 # Better ReGrowth 2 Boulder Names Mod for Rimworld
 
-Steam workshop link: <https://steamcommunity.com/sharedfiles/filedetails/?id=TODO>
+Steam workshop link: <https://steamcommunity.com/sharedfiles/filedetails/?id=3810425384>
 
 ## Quick about
 

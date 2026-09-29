@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Better ReGrowth 2 Boulder Names</name>
+  <author>zwei2stein</author>
+  <supportedVersions>
+	<li>1.6</li>
+  </supportedVersions>
+  <packageId>zwei2stein.BetterRegrowthBoulderNames</packageId>
+  <description>Better ReGrowth 2 Boulder Names. Boulders that contain ore will be named like "Sandstone boulder (plasteel)" instead of just "Sandstone boulder"</description>
+  <modVersion>1.0</modVersion>
+  <modDependencies>
+    <li>
+      <packageId>ReGrowth.BOTR.Core</packageId>
+      <displayName>ReGrowth 2</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2260097569</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>ReGrowth.BOTR.Core</li>
+  </loadAfter>
+</ModMetaData>

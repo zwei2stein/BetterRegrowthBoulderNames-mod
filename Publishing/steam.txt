@@ -1,0 +1,38 @@
+[h1]Better ReGrowth 2 Boulder Names[/h1]
+
+[h2]Features[/h2]
+
+This mod patches the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260097569]ReGrowth 2[/url] mod to rename boulders which contain ore.
+
+[list]
+    [*]Boulders that contain ore will be named like [b]"Sandstone boulder (plasteel)"[/b] instead of just [b]"Sandstone boulder"[/b]
+    [*]This enables the RimWorld search function to find ([b]hotkey "Z"[/b]) boulders containing ores easily.
+[/list]
+
+Why? Because when traveling around the rimworld, checking boulders for interesting ores can be ... tiresome.
+
+And some resources are quite rare, so FOMO.
+
+This mod lets the player find them all at a glance.
+
+[hr][/hr]
+
+[img=https://i.imgur.com/4tNdbpq.png]
+
+[hr][/hr]
+
+[h2]Mod compatibility[/h2]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260097569]ReGrowth 2[/url] - duh, this is an addon/patch for that mod.
+
+[hr][/hr]
+
+[url=https://github.com/zwei2stein/BetterRegrowthBoulderNames-mod/]Source Code[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3651274426]My Other Mods[/url]
+
+[hr][/hr]
+
+[h2]Thanks[/h2]
+
+Many thanks to the RimWorld Modding Discord community for their help.

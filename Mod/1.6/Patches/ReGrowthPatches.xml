@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef/comps[li[@Class="ReGrowthCore.CompProperties_ContainsOre"]]</xpath>
+        <value>
+            <li Class="BetterRegrowthBoulderNames.CompProperties_BoulderWithOreLabel" />
+        </value>
+    </Operation>
+    
+</Patch>

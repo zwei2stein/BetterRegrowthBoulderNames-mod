@@ -18,7 +18,8 @@ namespace BetterRegrowthBoulderNames
 
         public override string TransformLabel(string label)
         {
-            return OreComp?.chosenOreDef == null ? label : $"{label} ({OreComp.chosenOreDef.label})";
+            return OreComp?.chosenOreDef == null ? label : (string)"BetterRegrowthBoulderNames_LabelWithOre"
+                .Translate(label, OreComp.chosenOreDef.label);
         }
     }
 }

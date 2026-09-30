@@ -8,7 +8,10 @@ namespace BetterRegrowthBoulderNames
     {
         static BetterRegrowthBoulderNamesModInit()
         {
-            Log.Message("[BetterRegrowthBoulderNames] Loaded and patched.");
+            if (Prefs.DevMode)
+            {
+                Log.Message("[BetterRegrowthBoulderNames] Loaded.");
+            }
         }
     }
     
